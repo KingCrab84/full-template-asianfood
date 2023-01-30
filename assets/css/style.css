@@ -16,8 +16,22 @@
     position: absolute;
     top: 4%;
     left: 10%;
-    color: #fff;
+    color: hotpink;
     text-decoration: none;
+    text-transform: uppercase;
+}
+
+.logo a:link {
+    text-decoration: none;
+}
+
+.logo a:hover {
+    color: hotpink;
+}
+
+.logo a:visited {
+    text-decoration: none;
+    color: hotpink;
 }
 
 .banner-text {
@@ -35,27 +49,54 @@
     font-style: italic;
 }
 
-
-..................................................................
 #navbar {
-    font-size: 180%;
-    letter-spacing: 4px;
-}
-
-#navbar ul {
-    float: right;
-    list-style-type: none;
-}
-#navbar a {
-    text-decoration: none;
-    font-size: 20px;    
-    color:darkgray;
+    font-size: 20px;
+    width: 300px;
+    position: absolute;
+    top: 4.5%;
+    right: 10%;
 }
 
 #navbar li {
     display: inline-block;
 }
 
+#navbar a {
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;   
+    color:hotpink;
+}
+
 #navbar a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    color: 3px solid #3a3a3a;
+}
+
+#intro {
+    width: 100%;
+    padding: 70px 0;
+}
+
+.first-text {
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.first-text h2 {
+    font-size: 50px;
+}
+
+.first-text p {
+    margin: auto;
+    font-size: 20px;
+    color: #009688;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+}
+
+@media screen and (max-width: 770px) {
+    .banner-text h2 {
+        font-size: 44px; 
+    }
 }
