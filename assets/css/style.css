@@ -153,7 +153,7 @@
     text-align: center;
     border-radius: 7px;
     margin-bottom: 20px;
-    color: #fff;
+    color: rgb(255, 255, 255);
     position: relative;
 }
 
@@ -169,7 +169,7 @@
     top: 0;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(rgba(0,0,0,0.1), #ffebc7);
+    background: linear-gradient(rgba(0,0,0,0.8), #fada9e);
     opacity: 0;
     transition: 1s;
 }
@@ -202,7 +202,40 @@
     color: #000000;
 }
 
+.recepy-hold a {
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    font-size: 14px;
+    font-weight: 700;
+    color:rgb(255, 255, 255);
+}
+
+.recepy-hold a:hover {
+    color:#3a3a3a;
+}
+
 .single-recepy:hover .recepy-hold {
     bottom: 40%;
     opacity: 1;
+}
+
+/*--footer--*/
+
+.social-networks {
+    text-align: center;
+    padding: 10px 0 30px;
+    background: #efefef;
+    font-size: 22px;
+}
+
+.social-networks i {
+    font-size: 160%;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: hotpink;
+}
+
+.social-networks i:hover {
+    color: #3a3a3a;
 }
