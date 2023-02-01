@@ -11,6 +11,18 @@
     height: 100vh;
 }
 
+.banner overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(rgba(0,0,0,0.7), #ffbda9);
+    opacity: 0;
+    transition: 1s;
+}
+
 .logo {
     width: 230px;
     position: absolute;
@@ -50,7 +62,6 @@
 }
 
 /*--Navigation--*/
-
 #navbar {
     font-size: 20px;
     width: 350px;
@@ -58,11 +69,9 @@
     top: 4.5%;
     right: 10%;
 }
-
 #navbar li {
     display: inline-block;
 }
-
 #navbar a {
     text-decoration: none;
     text-transform: uppercase;
@@ -70,32 +79,27 @@
     letter-spacing: 1px;   
     color:rgb(255, 36, 47);
 }
-
 #navbar a:hover {
     color:#3a3a3a;
 }
 
 /*--Homepage--*/
-
 #headline {
     width: 100%;
     padding: 20px 0 10px 0;
     background: #efefef;
 }
-
 .headline-text {
     text-align: center;
     padding: 20px 20px;
 }
-
 .headline-text h2 {
     font-size: 30px;
     text-transform: uppercase;
 }
-
 .headline-text p {
     margin: auto;
-    padding: 0 60px;
+    padding: 10px 40px;
     font-size: 16px;
     font-weight: bold; 
     color: #000000;
@@ -103,7 +107,6 @@
     z-index: 1;
     display: inline-block;
 }
-
 .headline-box {
     width: 80%;
     display: flex;
@@ -111,7 +114,6 @@
     justify-content: space-around;
     margin: auto;
 }
-
 .single-headline {
     flex-basis: 49%;
     text-align: center;
@@ -121,14 +123,11 @@
     position: relative;
     background-color: #ffffff;
 }
-
 .single-headline img {
     width: 100%;
     height: 100%;
     border-radius: 7px;
- 
 }
-
 .headline-hold {
     width: 80%;
     position: absolute;
@@ -138,16 +137,13 @@
     transform: translateX(-50%);
     transition: 1s;
 }
-
 .first-text {
     text-align: center;
     padding-bottom: 70px;
 }
-
 .first-text h2 {
     font-size: 50px;
 }
-
 .first-text p {
     margin: auto;
     font-size: 20px; 
@@ -159,14 +155,12 @@
 }
 
 /*--signup form--*/
-
 #signup {
-    background: url(../images/signup_new.jpg);
+    background: url(../images/background/signup_new.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
-
 .signup-form {
     margin: 280px 10% 0 0;
     color: #fff;
@@ -176,20 +170,17 @@
     left: 60%;
     padding: 30px;
 }
-
 .signup-form h2 {
     font-size: 24px;
     text-transform: uppercase;
     color: #fafafa;
     margin-bottom: 20px;
 } 
-
 .signup-form p {
     font-size: 18px;
     color: #fafafa;
     margin-bottom: 10px;
 } 
-
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -199,11 +190,9 @@
     border: 1px solid #fafafa;
     border-radius: 5px;
 }
-
 .text-input:hover {
    border-color: #af6300;
 }
-
 .join-button {
     margin-top:5px;
     border-radius:5px;
@@ -215,20 +204,17 @@
     color: #000000;
     display: block;
 }
-
 .join-button:hover {
     background-color: #af6300;
     color: #ffffff;
 }
 
 /*--recepy--*/
-
 #recepy {
     width: 100%;
     padding: 40px 0 5px;
     background: #efefef;
 }
-
 .recepy-box {
     width: 80%;
     display: flex;
@@ -236,7 +222,6 @@
     justify-content: space-around;
     margin: auto;
 }
-
 .single-recepy {
     flex-basis: 48%;
     text-align: center;
@@ -245,13 +230,11 @@
     color: rgb(255, 255, 255);
     position: relative;
 }
-
 .single-recepy img {
     width: 100%;
     height: 100%;
     border-radius: 7px;
 }
-
 .overlay {
     width: 100%;
     height: 100%;
@@ -263,11 +246,9 @@
     opacity: 0;
     transition: 1s;
 }
-
 .single-recepy:hover .overlay {
     opacity: 1;
 }
-
 .recepy-hold {
     width: 80%;
     position: absolute;
@@ -277,7 +258,6 @@
     transform: translateX(-50%);
     transition: 1s;
 }
-
 .hr {
     background: #fff;
     height: 2px;
@@ -285,13 +265,11 @@
     margin: 15px auto;
     width: 60%;
 }
-
 .recepy-hold p {
     font-size: 14px;
     font-weight: 700;
     color: #000000;
 }
-
 .recepy-hold a {
     text-decoration: none;
     text-transform: uppercase;
@@ -300,31 +278,26 @@
     font-weight: 700;
     color:rgb(255, 255, 255);
 }
-
 .recepy-hold a:hover {
     color:#3a3a3a;
 }
-
 .single-recepy:hover .recepy-hold {
     bottom: 40%;
     opacity: 1;
 }
 
 /*--footer--*/
-
 .social-networks {
     text-align: center;
     padding: 10px 0 30px;
     background: #efefef;
 }
-
 .social-networks i {
     font-size: 160%;
     padding-left: 1%;
     padding-right: 1%;
     color: rgb(255, 36, 47);
 }
-
 .social-networks i:hover {
     color: #3a3a3a;
 }
