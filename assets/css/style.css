@@ -37,7 +37,7 @@
 .banner-text {
     text-align: center;
     color: #fff;
-    padding-top: 180px;
+    padding-top: 260px;
 }
 
 .banner-text h2 {
@@ -169,7 +169,7 @@
     top: 0;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(rgba(0,0,0,0.8), #fada9e);
+    background: linear-gradient(rgba(0,0,0,0.7), #ffbda9);
     opacity: 0;
     transition: 1s;
 }
@@ -226,7 +226,6 @@
     text-align: center;
     padding: 10px 0 30px;
     background: #efefef;
-    font-size: 22px;
 }
 
 .social-networks i {
