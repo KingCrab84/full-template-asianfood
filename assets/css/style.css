@@ -5,22 +5,10 @@
 }
 
 #banner {
-    background: url(../images/background/back1.jpg);
+    background: linear-gradient(rgba(87, 43, 30, 0.116),#000000),url(../images/background/back1.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
-}
-
-.banner overlay {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    border-radius: 7px;
-    cursor: pointer;
-    background: linear-gradient(rgba(0,0,0,0.7), #ffbda9);
-    opacity: 0;
-    transition: 1s;
 }
 
 .logo {
@@ -107,6 +95,29 @@
     z-index: 1;
     display: inline-block;
 }
+.headline-text a {
+    font-size: 16px;
+    font-weight: bold; 
+    color: #000000;
+    text-decoration: none;
+}
+
+.redirect-button {
+    width: 120px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 6px 0;
+    padding: 10px 0;
+    color: rgb(170, 0, 0);
+    border: 1px solid rgb(0, 0, 0)
+}
+
+.redirect-button:hover {
+    background-color: #ff3636;
+    color: #ffffff;
+}
+
+
 .headline-box {
     width: 80%;
     display: flex;
@@ -164,7 +175,7 @@
 .signup-form {
     margin: 280px 10% 0 0;
     color: #fff;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.6);
     max-width: 300px;
     position: absolute;
     left: 60%;
@@ -304,7 +315,7 @@
 
 /*--gallery--*/
 #galleria {
-    background: url(../images/background/back2.jpg);
+    background: linear-gradient(rgba(209, 105, 35, 0.103),#000000),url(../images/background/back2.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
