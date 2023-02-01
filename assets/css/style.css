@@ -4,58 +4,16 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#banner {
-    background: linear-gradient(rgba(87, 43, 30, 0.116),#000000),url(../images/background/back1.jpg);
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-}
-
-.logo {
-    width: 230px;
-    position: absolute;
-    top: 4%;
-    left: 10%;
-    color: rgb(255, 36, 47);
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-.logo a:link {
-    text-decoration: none;
-}
-
-.logo a:hover {
-    color: rgb(255, 36, 47);
-}
-
-.logo a:visited {
-    text-decoration: none;
-    color: rgb(255, 36, 47);
-}
-
-.banner-text {
-    text-align: center;
-    color: #fff;
-    padding-top: 260px;
-}
-
-.banner-text h2 {
-    font-size: 130px; 
-}
-
-.banner-text p {
-    font-size: 20px;
-    font-style: italic;
-}
-
 /*--Navigation--*/
 #navbar {
-    font-size: 20px;
-    width: 350px;
+    display: flex;
+    justify-content: center;
+}
+#navbar ul {
     position: absolute;
-    top: 4.5%;
-    right: 10%;
+    text-align: center;
+    font-size: 24px;
+    top: 7%;
 }
 #navbar li {
     display: inline-block;
@@ -65,13 +23,32 @@
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;   
-    color:rgb(255, 36, 47);
+    color:rgb(255, 255, 255);
+    padding: 5px;
 }
 #navbar a:hover {
-    color:#3a3a3a;
+    color:rgb(170, 0, 0);
 }
 
 /*--Homepage--*/
+#banner {
+    background: linear-gradient(rgba(87, 43, 30, 0.116),#000000),url(../images/background/back1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.banner-text {
+    text-align: center;
+    color: #fff;
+    padding-top: 260px;
+}
+.banner-text h2 {
+    font-size: 130px; 
+}
+.banner-text p {
+    font-size: 20px;
+    font-style: italic;
+}
 #headline {
     width: 100%;
     padding: 20px 0 10px 0;
@@ -101,7 +78,6 @@
     color: #000000;
     text-decoration: none;
 }
-
 .redirect-button {
     width: 120px;
     text-decoration: none;
@@ -111,13 +87,10 @@
     color: rgb(170, 0, 0);
     border: 1px solid rgb(0, 0, 0)
 }
-
 .redirect-button:hover {
     background-color: #ff3636;
     color: #ffffff;
 }
-
-
 .headline-box {
     width: 80%;
     display: flex;
@@ -165,7 +138,7 @@
     display: inline-block;
 }
 
-/*--signup form--*/
+/*--Signup Form--*/
 #signup {
     background: url(../images/background/signup_new.jpg);
     background-size: cover;
@@ -220,7 +193,7 @@
     color: #ffffff;
 }
 
-/*--recepy--*/
+/*--Recepy--*/
 #recepy {
     width: 100%;
     padding: 40px 0 5px;
@@ -320,7 +293,6 @@
     background-position: center;
     height: 100vh;
 }
-
 #photo {
     clear: both;
     line-height: 0;
@@ -328,7 +300,6 @@
     column-gap: 0;
     background-color: #efefef;
 }
-
 #photo > img {
     width: 100%;
 }
