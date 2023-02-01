@@ -303,3 +303,79 @@
 #photo > img {
     width: 100%;
 }
+
+/*--Recipe Page--*/
+#plate {
+    width: 100%;
+    padding: 30px 0 5px;
+    background: #efefef;
+}
+.food-box {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
+.single-food {
+    flex-basis: 24%;
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    color: rgb(255, 50, 50);
+    position: relative;
+}
+.single-food img {
+    width: 100%;
+    height: 100%;
+    border-radius: 7px;
+}
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(rgba(0, 0, 0, 0.781), #d36b0b9d);
+    opacity: 0;
+    transition: 1s;
+}
+.single-food:hover .overlay {
+    opacity: 1;
+}
+.food-hold {
+    width: 80%;
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    opacity: 0;
+    transform: translateX(-50%);
+    transition: 1s;
+}
+.hr {
+    background: #fff;
+    height: 2px;
+    margin: 15px auto;
+    width: 60%;
+}
+.food-hold p {
+    font-size: 14px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.food-hold a {
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    font-size: 14px;
+    font-weight: 700;
+    color:rgb(255, 255, 255);
+}
+.food-hold a:hover {
+    color:#000000;
+}
+.single-food:hover .food-hold {
+    bottom: 15%;
+    opacity: 1;
+}
