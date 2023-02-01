@@ -51,7 +51,7 @@
 
 #navbar {
     font-size: 20px;
-    width: 300px;
+    width: 350px;
     position: absolute;
     top: 4.5%;
     right: 10%;
@@ -64,6 +64,7 @@
 #navbar a {
     text-decoration: none;
     text-transform: uppercase;
+    font-weight: bold;
     letter-spacing: 1px;   
     color:rgb(255, 36, 47);
 }
@@ -72,14 +73,17 @@
     color:#3a3a3a;
 }
 
-#intro {
+/*--Homepage--*/
+
+#headline {
     width: 100%;
-    padding: 70px 0;
+    padding: 40px 0 5px;
+    background: #efefef;
 }
 
 .headline-text {
     text-align: center;
-    padding-bottom: 30px;
+    padding: 20px 20px;
 }
 
 .headline-text h2 {
@@ -89,12 +93,49 @@
 
 .headline-text p {
     margin: auto;
-    font-size: 18px; 
-    color: #696969;
-    font-weight: bold;
+    padding: 0 60px;
+    font-size: 16px;
+    font-weight: bold; 
+    color: #000000;
     position: relative;
     z-index: 1;
     display: inline-block;
+}
+
+
+
+
+.headline-box {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.single-headline {
+    flex-basis: 48%;
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    color: rgb(255, 36, 47);
+    position: relative;
+    background-color: #ffffff;
+}
+
+.single-headline img {
+    width: 100%;
+    border-radius: 7px;
+}
+
+.headline-hold {
+    width: 80%;
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    opacity: 0;
+    transform: translateX(-50%);
+    transition: 1s;
 }
 
 
@@ -119,6 +160,9 @@
     display: inline-block;
 }
 
+
+
+/*--experiment-*/
 .presentation-box {
     width: 80px;
     margin: auto;
@@ -154,6 +198,8 @@
     align-items: center;
     margin-bottom: 40px;
 }
+
+
 
 /*--recepy--*/
 
