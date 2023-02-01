@@ -12,11 +12,11 @@
 }
 
 .logo {
-    width: 200px;
+    width: 230px;
     position: absolute;
     top: 4%;
     left: 10%;
-    color: hotpink;
+    color: rgb(255, 36, 47);
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -26,12 +26,12 @@
 }
 
 .logo a:hover {
-    color: hotpink;
+    color: rgb(255, 36, 47);
 }
 
 .logo a:visited {
     text-decoration: none;
-    color: hotpink;
+    color: rgb(255, 36, 47);
 }
 
 .banner-text {
@@ -65,7 +65,7 @@
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 1px;   
-    color:hotpink;
+    color:rgb(255, 36, 47);
 }
 
 #navbar a:hover {
@@ -76,6 +76,29 @@
     width: 100%;
     padding: 70px 0;
 }
+
+.headline-text {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.headline-text h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.headline-text p {
+    margin: auto;
+    font-size: 18px; 
+    color: #696969;
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+}
+
+
+
 
 .first-text {
     text-align: center;
@@ -136,7 +159,7 @@
 
 #recepy {
     width: 100%;
-    padding: 70px 0;
+    padding: 40px 0 5px;
     background: #efefef;
 }
 
@@ -232,7 +255,7 @@
     font-size: 160%;
     padding-left: 1%;
     padding-right: 1%;
-    color: hotpink;
+    color: rgb(255, 36, 47);
 }
 
 .social-networks i:hover {
