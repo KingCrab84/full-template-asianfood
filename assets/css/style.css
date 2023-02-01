@@ -88,10 +88,11 @@
 
 .first-text p {
     margin: auto;
-    font-size: 20px;
+    font-size: 20px; 
     color: #009688;
     font-weight: bold;
     position: relative;
+    z-index: 1;
     display: inline-block;
 }
 
@@ -136,8 +137,7 @@
 #recepy {
     width: 100%;
     padding: 70px 0;
-    background: #9c9c9c;
-    color: #000000;
+    background: #efefef;
 }
 
 .recepy-box {
