@@ -373,9 +373,9 @@
     color:rgb(0, 0, 0);
 }
 .food-hold a:hover {
-    color:#ff0000;
+    color:#ffffff;
 }
 .single-food:hover .food-hold {
-    bottom: 15%;
+    bottom: 24%;
     opacity: 1;
 }
