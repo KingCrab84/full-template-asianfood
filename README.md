@@ -12,16 +12,17 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
 * Easily found contact details.
 * Form to directly contact the club.
 ## User Stories
-* As a user, I want to know that the club is well established.
-* As a user, I want the website to give me information about what is involved in trathalon.
-* As a user, I want to be able to easily contact the club.
-* As a user, I want to be able to make contact with the club via several different methods, i.e. social media.
+* As a user, I want to know how asian street food looks like.
+* As a user, I want get tips on where to go to experience different dishes
+* As a user, I want to read about whats trending about street food in Asia.
+* As a user, I want to be able to find recipes.
 * As a user, I want to be able to easily navigate through the website.
-* As a user, I want to know where the club is based.
-* As a user, I want to know what events are taking place.
+* As a user, I want to be able to follow on social media.
+* As a user, I want to be inspired to travel and enjoying Asian cuisine. 
 ## Site owners Goals
-* Promote the club.
-* Increase the number of members.
+* Promote the webpage.
+* Promote Asian street food.
+* Increase the number of subsribers.
 * Increase rankings on search engines.
 
 Features
