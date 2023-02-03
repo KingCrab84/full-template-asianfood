@@ -18,7 +18,6 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
         * [Fonts](#fonts)
         * [Icons](#icons)
         * [Colours](#colours)
-    * [Wireframes](#wireframes)
     * [Features](#features)
         * [Existing Features](#existing-features)
             * [Navigation Bar](#navigation-bar)
@@ -67,6 +66,7 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
 * I expect all links to social media sites to be opened in a new tab.
 * I expect all navigation links to work correctly.
 * I expect all information to be correct and accurate.
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -83,11 +83,221 @@ I will used some icons for my website from the [Font Awesome library](https://fo
 
 ### Colours
 I will be using a light gray-white colour on the background(#efefef) to make the website a little more soft looking, while the images will help making it feel warmer also. The text color used for headers is warm Red(RGB #170, 0, 0) and Black(#000000), while most of the paragraphs is using Black(#000000) and White(#ffffff). 
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
 \
 &nbsp;
+
+
+# Features
+
+## Existing Features
+
+### Navigation Bar
+
+The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and the club logo which doubles as a link back to the home screen.
+
++ Desktop (>=992px)
+\
+&nbsp;
+    ![Navigation bar](wireframes/nav-bar-desktop.JPG)
+    -   Spanning the full width of the device and with all links (Home, About, Events, Contact) to navigate visible, this gives ease and clear use to the end user.
+
+    -   In order for the user to visably see which of the links they are hovering over there is a bar below the text.
+
+    ![Navigation bar on hover](wireframes/nav-bar-hover.JPG)
+    \
+    &nbsp;
+    -   For the user to know that a link has been clicked there is also a visual aid of the text changing colour.
+
+    ![Navigation bar on focus](wireframes/nav-bar-focus.JPG)
+    \
+    &nbsp;
+
+
++ Small devices (<992px)
+\
+&nbsp;
+    - As the navigation bar would be unuseable in the desktop version on smaller devices, it takes on a hamburger style.
+
+    \
+    &nbsp;
+![Nav bar on small devices](wireframes/nav-bar-small.JPG)
+
+    - When pressed, it opens up the main menu with all the links available then.
+
+    \
+    &nbsp;
+![Nav bar on small devices expanded](wireframes/nav-bar-small-expanded.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+### Landing Page
+
++ The landing page image
+    - The image gives the user instant knowledge of what is involved in the club, and with added animation draws their eye to the site.
+    - The text gives instant information to the user on what the club is. With the added animation of fading in slightly behind the image, it makes the user keep interest. 
+    \
+    &nbsp;
+
+    ![Landing Page](wireframes/landing-page.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+
+### Welcome Section
+
++ The welcome section gives a brief introduction to the user on what T4Tri is and who is welcome.
+    \
+    &nbsp;
+
+    ![Welcome Section](wireframes/welcome.JPG)
+    \
+    &nbsp;
+
++ To speed up user interation, there is a *'Join Us'* button that directly links to the contact form. This button has a hover effect on it in the form of an animation to allow the user to know that it is something to be pressed.
+    \
+    &nbsp;
+
+    ![Welcome Button](wireframes/welcome-button.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+### About Section
+
++ The about section gives a brief, and attemped humerous, description of the diceplins of triathlon with the adition of a character showing the user what is involved, even if they do not want to read the descriptions. It is also responsive to suit the different screen sizes.
+    \
+    &nbsp;
+
+    *Desktop*
+
+    ![About Section on Desktop](wireframes/about.JPG)
+    \
+    &nbsp;
+
+
+    *Laptop*
+    
+    ![About Section on Tablet](wireframes/about-laptop.JPG)
+    \
+    &nbsp;
+
+    
+    *Phone and Tablet*
+    
+    ![About Section on Phone](wireframes/about-phone.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+### Events Section
+
++ This is where the most upcoming club events are shown. It includes an icon to quickly show if it is a social or a race event to the user. Also, on the larger screen sizes it includes some images to break up the screen.
+    \
+    &nbsp;
+
+    *Large device*
+
+    ![Events Section on Large Display](wireframes/events-large-device.JPG)
+    \
+    &nbsp;
+
+    *Small device*
+
+    ![Events Section on Small Display](wireframes/events-small-device.JPG)
+
+    \
+    &nbsp;
++ The date and location are also shown with the added function of a link to the directions of the event via Google Maps. There is also a label added, and animation for extra information to the user that it is a link to follow.
+    \
+    &nbsp;
+
+    ![Events Section Directions](wireframes/events-directions.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+### Contact Section
+
++ The contact section allows the user to quickly send a message to the T4Tri club. it also has a map of the location of the club base.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact.JPG)
+    \
+    &nbsp;
+
++ The text fields are all required fields and will not alow the user to submit until they are completed, this includes a validation on the email to ensure it is in a valid format. There is also a hover effect on the submit button to give the user feedback that it is and active button.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact-email.JPG)
+    \
+    &nbsp;
+
++ On submission of the form, the user is bought to a page showing that their details were received.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact-received.JPG)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+### Footer
+
++ The footer contains the social media links related to T4Tri and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/footer.JPG)
+    \
+    &nbsp;
+
++ There is also a hover effect over the links, again to improve user experiance.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/footer-hover.JPG)
+    \
+    &nbsp;
+
+## Features to be Implemented
+
++ Contact form to send message to T4Tri instead of leading to a dummy page.
++ Links to club sponsors websites.
++ Add a shop for club clothing to be purchased.
++ Add a library of structured workouts for all activities.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+
 
 
 
