@@ -106,15 +106,10 @@ In order for the user to visably see which of the links they are hovering over, 
 [Back to Top](#table-of-contents)
 \
 &nbsp;
+
 ### Landing Page
 
-+ The landing page image
-    - The image gives the user instant knowledge of what is involved in the club, and with added animation draws their eye to the site.
-    - The text gives instant information to the user on what the club is. With the added animation of fading in slightly behind the image, it makes the user keep interest. 
-    \
-    &nbsp;
-
-    ![Landing Page](wireframes/landing-page.JPG)
+The Landing page starts of with a big background image to show off the vibes from the amazing streets, colourful environment and delicious food. The Navbar is centered  above a big clear title(ASIAN STREET FOOD) and a small explanation below the title.
 
 \
 &nbsp;
@@ -123,21 +118,11 @@ In order for the user to visably see which of the links they are hovering over, 
 &nbsp;
 
 
-### Welcome Section
+### Article Section
 
-+ The welcome section gives a brief introduction to the user on what T4Tri is and who is welcome.
-    \
-    &nbsp;
+Here are some of the latest articles that shows news about street food in Asia. 
 
-    ![Welcome Section](wireframes/welcome.JPG)
-    \
-    &nbsp;
-
-+ To speed up user interation, there is a *'Join Us'* button that directly links to the contact form. This button has a hover effect on it in the form of an animation to allow the user to know that it is something to be pressed.
-    \
-    &nbsp;
-
-    ![Welcome Button](wireframes/welcome-button.JPG)
+OBS SKRIV MERA HÄR!!!!!!!
 
 \
 &nbsp;
@@ -145,29 +130,13 @@ In order for the user to visably see which of the links they are hovering over, 
 \
 &nbsp;
 
-### About Section
+### Sign up Section
 
-+ The about section gives a brief, and attemped humerous, description of the diceplins of triathlon with the adition of a character showing the user what is involved, even if they do not want to read the descriptions. It is also responsive to suit the different screen sizes.
-    \
-    &nbsp;
+This page will allow the user to get signed up. The user need to fill in first name, last name and mailadress to be able to recieve weekly/dailly newsletter for recipes/articles.
 
-    *Desktop*
+Additional features could be creating an account along with the Sign Up form. In the Login account there will be rating function for each recipy, access to a library of recipes, saving all the favorites recipes as shortcuts.
 
-    ![About Section on Desktop](wireframes/about.JPG)
-    \
-    &nbsp;
-
-
-    *Laptop*
-    
-    ![About Section on Tablet](wireframes/about-laptop.JPG)
-    \
-    &nbsp;
-
-    
-    *Phone and Tablet*
-    
-    ![About Section on Phone](wireframes/about-phone.JPG)
+OBS SKRIV MERA HÄR!!!!!!!
 
 \
 &nbsp;
@@ -175,29 +144,9 @@ In order for the user to visably see which of the links they are hovering over, 
 \
 &nbsp;
 
-### Events Section
+### Recipe Section
 
-+ This is where the most upcoming club events are shown. It includes an icon to quickly show if it is a social or a race event to the user. Also, on the larger screen sizes it includes some images to break up the screen.
-    \
-    &nbsp;
-
-    *Large device*
-
-    ![Events Section on Large Display](wireframes/events-large-device.JPG)
-    \
-    &nbsp;
-
-    *Small device*
-
-    ![Events Section on Small Display](wireframes/events-small-device.JPG)
-
-    \
-    &nbsp;
-+ The date and location are also shown with the added function of a link to the directions of the event via Google Maps. There is also a label added, and animation for extra information to the user that it is a link to follow.
-    \
-    &nbsp;
-
-    ![Events Section Directions](wireframes/events-directions.JPG)
+OBS SKRIV MERA HÄR!!!!!!!
 
 \
 &nbsp;
@@ -205,29 +154,13 @@ In order for the user to visably see which of the links they are hovering over, 
 \
 &nbsp;
 
-### Contact Section
+### Gallery Section
 
-+ The contact section allows the user to quickly send a message to the T4Tri club. it also has a map of the location of the club base.
-    \
-    &nbsp;
+This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
 
-    ![Contact Section](wireframes/contact.JPG)
-    \
-    &nbsp;
-
-+ The text fields are all required fields and will not alow the user to submit until they are completed, this includes a validation on the email to ensure it is in a valid format. There is also a hover effect on the submit button to give the user feedback that it is and active button.
-    \
-    &nbsp;
-
-    ![Contact Section](wireframes/contact-email.JPG)
-    \
-    &nbsp;
-
-+ On submission of the form, the user is bought to a page showing that their details were received.
-    \
-    &nbsp;
-
-    ![Contact Section](wireframes/contact-received.JPG)
+Gallery länka till folks inlägg
+Berätta mer vart de köpte den o betyg 
+OBS SKRIV MERA HÄR!!!!!!!
 
 \
 &nbsp;
@@ -237,21 +170,13 @@ In order for the user to visably see which of the links they are hovering over, 
 
 ### Footer
 
-+ The footer contains the social media links related to T4Tri and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site.
-    \
-    &nbsp;
+The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site. There is also a hover effect over the links, again to improve user experiance.
 
-    ![Contact Section](wireframes/footer.JPG)
-    \
-    &nbsp;
-
-+ There is also a hover effect over the links, again to improve user experiance.
-    \
-    &nbsp;
-
-    ![Contact Section](wireframes/footer-hover.JPG)
-    \
-    &nbsp;
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 ## Features to be Implemented
 
