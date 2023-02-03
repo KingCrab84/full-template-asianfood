@@ -198,18 +198,15 @@ The footer contains the social media links. These social links all open in a new
 * [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
 
 ## Libraries & Framework
-* [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
+
 ## Tools
 * [Gitpod](https://www.gitpod.io/ "Gitpod")
-* [Balsamic](https://balsamiq.com/wireframes/ "Balsamic")
 * [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML")
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS")
-* [Bootstrap](https://getbootstrap.com "Bootstrap")
-* [Colourmind](https://colormind.io/ "colourmind")
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
-* [Unsplash](https://unsplash.com/ "Unsplash")
+* [RawPixel](https://www.rawpixel.com/ "RawPixel")
 * [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
 
 \
