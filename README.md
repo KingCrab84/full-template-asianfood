@@ -53,17 +53,6 @@ I will used some icons for my website from the [Font Awesome library](https://fo
 ### Colours
 I will be using a light gray-white colour on the background(#efefef) to make the website a little more soft looking, while the images will help making it feel warmer also. The text color used for headers is warm Red(RGB #170, 0, 0) and Black(#000000), while most of the paragraphs is using Black(#000000) and White(#ffffff). 
 
-### Structure
-I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are from [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap").
-
-| Screen Size | Breakpoint |
-| ----------- | ---------- |
-| x-small     | <576px     |
-| small       | => 576px   |
-| medium      | => 768px   |
-| large       | => 992px   |
-| x-large     | => 1200px  |
-
 \
 &nbsp;
 [Back to Top](#table-of-contents)
