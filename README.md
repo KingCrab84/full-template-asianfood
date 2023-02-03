@@ -18,7 +18,6 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
         * [Fonts](#fonts)
         * [Icons](#icons)
         * [Colours](#colours)
-        * [Structure](#structure)
     * [Wireframes](#wireframes)
     * [Features](#features)
         * [Existing Features](#existing-features)
@@ -68,7 +67,6 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
 * I expect all links to social media sites to be opened in a new tab.
 * I expect all navigation links to work correctly.
 * I expect all information to be correct and accurate.
-
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -85,7 +83,6 @@ I will used some icons for my website from the [Font Awesome library](https://fo
 
 ### Colours
 I will be using a light gray-white colour on the background(#efefef) to make the website a little more soft looking, while the images will help making it feel warmer also. The text color used for headers is warm Red(RGB #170, 0, 0) and Black(#000000), while most of the paragraphs is using Black(#000000) and White(#ffffff). 
-
 \
 &nbsp;
 [Back to Top](#table-of-contents)
