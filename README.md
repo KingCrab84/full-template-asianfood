@@ -24,6 +24,73 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
 * Promote Asian street food.
 * Increase the number of subsribers.
 * Increase rankings on search engines.
+### Requirements
+* Easy to navigate.
+* Clear information on the services provided.
+* Keep the user interested with small bits of information to make them want to engage with the club.
+* Simple methods of contacting the club.
+* Visually inviting so users do not leave.
+### Expectations
+* I expect to know if a form has been submitted properly and if items are not filled in, to be prompted.
+* I expect all links to social media sites to be opened in a new tab.
+* I expect all navigation links to work correctly.
+* I expect all information to be correct and accurate.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+## Design Choices
+
+### Fonts
+For the main text I have chosen Gill Sans as I feel it is has a clear, simple and easy yet fun to read. Bold and Cursive has been used to elevate the text.
+
+### Icons
+I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explanation needed to their meaning, social media links. All icons used will be styled and in keeping with the appearance of the website.
+
+### Colours
+I have used [Colourmind](https://colormind.io/ "colourmind") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet, it can be seen [here](wireframes/colour_pallet.JPG "Generated Colour Pallet"). However when I tested the contrast of the colours in [WebAIM](https://webaim.org/resources/contrastchecker/ "WebAIM"), the contrast ratio from the text colour to the background colour was not good enough and failed tests, they can be seen [here](wireframes/contrast-checker.JPG "Failed tests"). After adjusting the colours manually, I gained a pallet that still gave great impact and had great contrast, these are the results for the contrast checker are [here](wireframes/contrast-checker-adjusted.JPG "Adjusted Colour Pallet").
+
+
+I will explain the uses of the varius colours below, starting from top to bottom.
+
+
+![Colour Pallet](wireframes/new-colour-pallet.JPG)
+
+
+ 
+ * #8C00B3 - This colour will be used as a background colour for sections and as a text colour.
+ * #FFFDDF - This colour will be used as a background colour for sections and as a text colour.
+ * #8E689B - This colour will be used on the contact form for added styling.
+ * #92579F - This colour will be used as a backgroung behind any images used.
+ * #121A18 - This colour will be used as a text colour also the navigation and footer background colour.
+
+### Structure
+I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are from [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap").
+
+| Screen Size | Breakpoint |
+| ----------- | ---------- |
+| x-small     | <576px     |
+| small       | => 576px   |
+| medium      | => 768px   |
+| large       | => 992px   |
+| x-large     | => 1200px  |
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+
+
+
+
+
+
+
 
 Features
 
