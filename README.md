@@ -170,7 +170,7 @@ OBS SKRIV MERA HÄR!!!!!!!
 
 ### Footer
 
-The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site. There is also a hover effect over the links, again to improve user experiance.
+The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to Asian Street Food site. There is also a hover effect over the links, again to improve user experiance.
 
 \
 &nbsp;
