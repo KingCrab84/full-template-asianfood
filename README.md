@@ -1,9 +1,28 @@
-ASIAN STREET FOOD
+# ASIAN STREET FOOD
 
-Goal for this Project
-.........................
+# Goal for this Project
+
 This website is a place that showcases the range of amazingly good street food in Asia.
 Let the viewers get inspiration to visit Asia, or if not, find recipes to cook at home for those who can't travel all the way there.
+
+## User Goals
+* Visually appealing, including images.
+* Easily navigated around.
+* Quality and valuable content.
+* Easily found contact details.
+* Form to directly contact the club.
+## User Stories
+* As a user, I want to know that the club is well established.
+* As a user, I want the website to give me information about what is involved in trathalon.
+* As a user, I want to be able to easily contact the club.
+* As a user, I want to be able to make contact with the club via several different methods, i.e. social media.
+* As a user, I want to be able to easily navigate through the website.
+* As a user, I want to know where the club is based.
+* As a user, I want to know what events are taking place.
+## Site owners Goals
+* Promote the club.
+* Increase the number of members.
+* Increase rankings on search engines.
 
 Features
 
