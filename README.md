@@ -5,7 +5,6 @@
 This website is a place that showcases the range of amazingly good street food in Asia.
 Let the viewers get inspiration to visit Asia, or if not, find recipes to cook at home for those who can't travel all the way there.
 
-![Responsive Displays](wireframes/different-displays.JPG)
 
 # Table of Contents
 * [UX](#ux "UX")
