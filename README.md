@@ -101,6 +101,10 @@ Navigation Bar
 Featured on all three pages, the full responsive navigation bar links to the Homepage, Recipes, Gallery and Sign Up pages.
 In order for the user to visably see which of the links they are hovering over, there is a text changing colour.
 
+![Responsive Displays](assets/images/readmeimg/nav.png)
+![Responsive Displays](assets/images/readmeimg/nav%20over.jpg)
+
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -110,6 +114,9 @@ In order for the user to visably see which of the links they are hovering over, 
 ### Landing Page
 
 The Landing page starts of with a big background image to show off the vibes from the amazing streets, colourful environment and delicious food. The Navbar is centered  above a big clear title(ASIAN STREET FOOD) and a small explanation below the title.
+
+![Responsive Displays](assets/images/readmeimg/home_back.jpg)
+
 
 \
 &nbsp;
@@ -121,9 +128,8 @@ The Landing page starts of with a big background image to show off the vibes fro
 ### Article Section
 
 Here are some of the latest articles that shows news about street food in Asia. 
-![Responsive Displays]![Alt text](vscode-local:/headline.jpg)
-![Responsive Displays]
-![Responsive Displays]
+![Responsive Displays](assets/images/readmeimg/headline.jpg)
+![Responsive Displays](assets/images/readmeimg/headline_over.jpg)
 
 
 \
@@ -167,9 +173,7 @@ OBS SKRIV MERA HÄR!!!!!!!
 
 ### Recipe Section/Page
 
-![Responsive Displays](assets/images/readmeimg/latest_recipe.jpg)
-![Responsive Displays](assets/images/readmeimg/latest_recipe_over.jpg)
-![Responsive Displays](assets/images/readmeimg/latest_recipe_over2.jpg)
+![Responsive Displays](assets/images/readmeimg/recipe_over.jpg)
 
 OBS SKRIV MERA HÄR!!!!!!!
 
@@ -183,6 +187,9 @@ OBS SKRIV MERA HÄR!!!!!!!
 
 This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
 
+![Responsive Displays](assets/images/readmeimg/gallery.jpg)
+
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -192,6 +199,10 @@ This Gallery will provide the user with supporting images to see how the atmosph
 ### Footer
 
 The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site. There is also a hover effect over the links, again to improve user experiance.
+
+![Responsive Displays]
+![Responsive Displays]
+![Responsive Displays]
 
 \
 &nbsp;
