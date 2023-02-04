@@ -102,6 +102,7 @@ I will be using a light gray-white colour on the background(#efefef) to make the
 Navigation Bar
 Featured on all three pages, the full responsive navigation bar links to the Homepage, Recipes, Gallery and Sign Up pages.
 In order for the user to visably see which of the links they are hovering over, there is a text changing colour.
+
 ![Responsive Displays](assets/images/readmeimg/nav.png)
 ![Responsive Displays](assets/images/readmeimg/nav%20over.jpg)
 
@@ -114,6 +115,7 @@ In order for the user to visably see which of the links they are hovering over, 
 ### Landing Page
 
 The Landing page starts of with a big background image to show off the vibes from the amazing streets, colourful environment and delicious food. The Navbar is centered  above a big clear title(ASIAN STREET FOOD) and a small explanation below the title.
+
 ![Responsive Displays](assets/images/readmeimg/home_back.jpg)
 
 \
@@ -126,15 +128,10 @@ The Landing page starts of with a big background image to show off the vibes fro
 ### Article Section
 
 Here are some of the latest articles that shows news about street food in Asia. 
-hej
-hallå elleeeerrr!V :d 
-fin e duuuu
-:D <3  inte finare än dig
-din rumpa e finare
-<3 via telefonen? Luna har min telefon, skickar google meet till dig
+A button that would redirect to the whole article will be highlighted with hover effect by changing the appearence of the button. 
+
 ![Responsive Displays](assets/images/readmeimg/headline_big.jpg)
 ![Responsive Displays](assets/images/readmeimg/headline_over.jpg)
-
 
 \
 &nbsp;
@@ -162,11 +159,13 @@ Additional features could be creating an account along with the Sign Up form. In
 
 ### Latest Recipe Section
 
+This section contains 8 of the latest recipe shortcuts on the mainpage.
+Inviting images that when hovering over will animate gradient/transition effect with description of the dishes.
+There will also be a go to "Full Recipe" button, redirecting to the full recipe page. 
+
 ![Responsive Displays](assets/images/readmeimg/latest_recipe.jpg)
 ![Responsive Displays](assets/images/readmeimg/latest_recipe_over.jpg)
 ![Responsive Displays](assets/images/readmeimg/latest_recipe_over2.jpg)
-
-OBS SKRIV MERA HÄR!!!!!!!
 
 \
 &nbsp;
