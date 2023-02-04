@@ -121,8 +121,10 @@ The Landing page starts of with a big background image to show off the vibes fro
 ### Article Section
 
 Here are some of the latest articles that shows news about street food in Asia. 
+![Responsive Displays]![Alt text](vscode-local:/headline.jpg)
+![Responsive Displays]
+![Responsive Displays]
 
-OBS SKRIV MERA HÄR!!!!!!!
 
 \
 &nbsp;
@@ -148,7 +150,11 @@ Additional features could be creating an account along with the Sign Up form. In
 \
 &nbsp;
 
-### Recipe Section
+### Latest Recipe Section
+
+![Responsive Displays](assets/images/readmeimg/latest_recipe.jpg)
+![Responsive Displays](assets/images/readmeimg/latest_recipe_over.jpg)
+![Responsive Displays](assets/images/readmeimg/latest_recipe_over2.jpg)
 
 OBS SKRIV MERA HÄR!!!!!!!
 
@@ -158,7 +164,22 @@ OBS SKRIV MERA HÄR!!!!!!!
 \
 &nbsp;
 
-### Gallery Section
+
+### Recipe Section/Page
+
+![Responsive Displays](assets/images/readmeimg/latest_recipe.jpg)
+![Responsive Displays](assets/images/readmeimg/latest_recipe_over.jpg)
+![Responsive Displays](assets/images/readmeimg/latest_recipe_over2.jpg)
+
+OBS SKRIV MERA HÄR!!!!!!!
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+### Gallery Section/Page
 
 This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
 
