@@ -368,7 +368,7 @@ body {
 .food-hold {
     width: 80%;
     position: absolute;
-    bottom: 0%;
+    top: 25%;
     left: 50%;
     opacity: 0;
     transform: translateX(-50%);
