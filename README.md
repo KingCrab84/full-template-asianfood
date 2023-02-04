@@ -22,10 +22,12 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
         * [Existing Features](#existing-features)
             * [Navigation Bar](#navigation-bar)
             * [Landing Page](#landing-page)
-            * [About Section](#about-section)
-            * [Events Section](#events-section)
-            * [Contact Section](#contact-section)
+            * [Article Section](#article-section)
+            * [Sign Up Section](#signup-section)
+            * [Latest Recipes Section](#latest-section)
             * [Footer](#footer)
+            * [Recipe](#recipe-page)
+            * [Gallery](#gallery-page)
         * [Features to be implemented](#features-to-be-implemented)
     * [Technologies used](#technologies-used)
         * [Languages](#languages)
@@ -100,10 +102,8 @@ I will be using a light gray-white colour on the background(#efefef) to make the
 Navigation Bar
 Featured on all three pages, the full responsive navigation bar links to the Homepage, Recipes, Gallery and Sign Up pages.
 In order for the user to visably see which of the links they are hovering over, there is a text changing colour.
-
 ![Responsive Displays](assets/images/readmeimg/nav.png)
 ![Responsive Displays](assets/images/readmeimg/nav%20over.jpg)
-
 
 \
 &nbsp;
@@ -114,7 +114,6 @@ In order for the user to visably see which of the links they are hovering over, 
 ### Landing Page
 
 The Landing page starts of with a big background image to show off the vibes from the amazing streets, colourful environment and delicious food. The Navbar is centered  above a big clear title(ASIAN STREET FOOD) and a small explanation below the title.
-
 ![Responsive Displays](assets/images/readmeimg/home_back.jpg)
 
 
@@ -128,7 +127,7 @@ The Landing page starts of with a big background image to show off the vibes fro
 ### Article Section
 
 Here are some of the latest articles that shows news about street food in Asia. 
-![Responsive Displays](assets/images/readmeimg/headline.jpg)
+![Responsive Displays](assets/images/readmeimg/headline_big.jpg)
 ![Responsive Displays](assets/images/readmeimg/headline_over.jpg)
 
 
@@ -170,32 +169,6 @@ OBS SKRIV MERA HÄR!!!!!!!
 \
 &nbsp;
 
-
-### Recipe Section/Page
-
-![Responsive Displays](assets/images/readmeimg/recipe_over.jpg)
-
-OBS SKRIV MERA HÄR!!!!!!!
-
-\
-&nbsp;
-[Back to Top](#table-of-contents)
-\
-&nbsp;
-
-### Gallery Section/Page
-
-This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
-
-![Responsive Displays](assets/images/readmeimg/gallery.jpg)
-
-
-\
-&nbsp;
-[Back to Top](#table-of-contents)
-\
-&nbsp;
-
 ### Footer
 
 The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site. There is also a hover effect over the links, again to improve user experiance.
@@ -209,6 +182,30 @@ The footer contains the social media links. These social links all open in a new
 [Back to Top](#table-of-contents)
 \
 &nbsp;
+
+### Recipe Page
+
+![Responsive Displays](assets/images/readmeimg/recipe_over.jpg)
+
+OBS SKRIV MERA HÄR!!!!!!!
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+### Gallery Page
+
+This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
+![Responsive Displays](assets/images/readmeimg/gallery.jpg)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
 ## Features to be Implemented
 
@@ -329,19 +326,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 For code insperation, help and advice,
 * [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
-* [Mark Caron](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793 "Marc Caron")
-\
-&nbsp;
 
-For content and style insperation,
-* [3D Triathlon Club](https://www.3dtri.ie/ "3D Triathlon Club")
-* [Limerick Triathlon Club](https://limericktriathlon.com/ "Limerick Triathlon Club")
-* [Portmarnock Triathlon Club](https://www.portmarnocktriathlonclub.com/ "Portmarnock Triathlon Club")
-
-
-\
-&nbsp;
-[Back to Top](#table-of-contents)
 \
 &nbsp;
 
