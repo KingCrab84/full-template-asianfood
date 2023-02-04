@@ -1,9 +1,13 @@
 * {
     margin: 0;
     padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
 /*--Navigation--*/
 #navbar {
     display: flex;
@@ -12,7 +16,7 @@
 #navbar ul {
     position: absolute;
     text-align: center;
-    font-size: 24px;
+    font-size: 2.4rem;
     top: 7%;
 }
 #navbar li {
@@ -29,7 +33,6 @@
 #navbar a:hover {
     color:rgb(170, 0, 0);
 }
-
 /*--Home Page--*/
 #banner {
     background: linear-gradient(rgba(87, 43, 30, 0.116),#000000),url(../images/background/back1.jpg);
@@ -40,31 +43,31 @@
 .banner-text {
     text-align: center;
     color: #fff;
-    padding-top: 260px;
+    padding-top: 26rem;
 }
 .banner-text h2 {
-    font-size: 130px; 
+    font-size: 13rem; 
 }
 .banner-text p {
-    font-size: 20px;
+    font-size: 2rem;
     font-style: italic;
 }
 .headline {
     width: 100%;
-    padding: 20px 0 10px 0;
+    padding: 2rem 0 1rem 0;
     background: #efefef;
 }
 .headline-text {
     text-align: center;
-    padding: 20px 20px;
+    padding: 2rem 2rem;
 }
 .headline-text h2 {
-    font-size: 30px;
+    font-size: 3rem;
     text-transform: uppercase;
 }
 .headline-text p {
     margin: auto;
-    padding: 10px 40px;
+    padding: 1rem 4rem;
     font-size: 16px;
     font-weight: bold; 
     color: #000000;
@@ -73,17 +76,17 @@
     display: inline-block;
 }
 .headline-text a {
-    font-size: 16px;
+    font-size: 1.6rem;
     font-weight: bold; 
     color: #000000;
     text-decoration: none;
 }
 .redirect-button {
-    width: 120px;
+    width: 12rem;
     text-decoration: none;
     display: inline-block;
-    margin: 6px 0;
-    padding: 10px 0;
+    margin: 0.6rem 0;
+    padding: 1rem 0;
     color: rgb(170, 0, 0);
     border: 1px solid rgb(0, 0, 0)
 }
@@ -102,7 +105,7 @@
     flex-basis: 49%;
     text-align: center;
     border-radius: 7px;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
     color: rgb(255, 36, 47);
     position: relative;
     background-color: #ffffff;
@@ -110,7 +113,7 @@
 .single-headline img {
     width: 100%;
     height: 100%;
-    border-radius: 7px;
+    border-radius: 0.7rem;
 }
 .headline-hold {
     width: 80%;
@@ -123,21 +126,20 @@
 }
 .first-text {
     text-align: center;
-    padding-bottom: 70px;
+    padding-bottom: 7rem;
 }
 .first-text h2 {
-    font-size: 50px;
+    font-size: 5rem;
 }
 .first-text p {
     margin: auto;
-    font-size: 20px; 
+    font-size: 2rem; 
     color: #009688;
     font-weight: bold;
     position: relative;
     z-index: 1;
     display: inline-block;
 }
-
 /*--Signup Form--*/
 #signup {
     background: url(../images/background/signup_new.jpg);
@@ -146,31 +148,31 @@
     height: 100vh;
 }
 .signup-form {
-    margin: 280px 10% 0 0;
+    margin: 28rem 10% 0 0;
     color: #fff;
     background-color: rgba(0, 0, 0, 0.6);
-    max-width: 300px;
+    max-width: 30rem;
     position: absolute;
     left: 60%;
-    padding: 30px;
+    padding: 3rem;
 }
 .signup-form h2 {
-    font-size: 24px;
+    font-size: 2.4rem;
     text-transform: uppercase;
     color: #fafafa;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 } 
 .signup-form p {
-    font-size: 18px;
+    font-size: 1.8rem;
     color: #fafafa;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
 } 
 .text-input {
     background: transparent;
     color: #fafafa;
     width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
+    height: 2.5rem;
+    margin: 5px 0 2rem 0;
     border: 1px solid #fafafa;
     border-radius: 5px;
 }
@@ -180,7 +182,7 @@
 .join-button {
     margin-top:5px;
     border-radius:5px;
-    padding: 5px 26px 5px 26px;
+    padding: 5px 2.6rem 5px 2.6rem;
     text-align: center;
     font-size: 90%;
     font-weight: bold;
@@ -192,11 +194,10 @@
     background-color: #af6300;
     color: #ffffff;
 }
-
 /*--Recepy--*/
 #recepy {
     width: 100%;
-    padding: 40px 0 5px;
+    padding: 4rem 0 5px;
     background: #efefef;
 }
 .recepy-box {
@@ -209,22 +210,22 @@
 .single-recepy {
     flex-basis: 48%;
     text-align: center;
-    border-radius: 7px;
-    margin-bottom: 20px;
+    border-radius: 0.7rem;
+    margin-bottom: 2rem;
     color: rgb(255, 255, 255);
     position: relative;
 }
 .single-recepy img {
     width: 100%;
     height: 100%;
-    border-radius: 7px;
+    border-radius: 0.7rem;
 }
 .overlay {
     width: 100%;
     height: 100%;
     position: absolute;
     top: 0;
-    border-radius: 7px;
+    border-radius: 0.7rem;
     cursor: pointer;
     background: linear-gradient(rgba(0,0,0,0.7), #ffbda9);
     opacity: 0;
@@ -246,11 +247,11 @@
     background: #fff;
     height: 2px;
     border: 0;
-    margin: 15px auto;
+    margin: 1.5rem auto;
     width: 60%;
 }
 .recepy-hold p {
-    font-size: 14px;
+    font-size: 1.4rem;
     font-weight: 700;
     color: #000000;
 }
@@ -258,7 +259,7 @@
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 1px; 
-    font-size: 14px;
+    font-size: 1.4rem;
     font-weight: 700;
     color:rgb(255, 255, 255);
 }
@@ -269,11 +270,10 @@
     bottom: 40%;
     opacity: 1;
 }
-
 /*--footer--*/
 .social-networks {
     text-align: center;
-    padding: 10px 0 30px;
+    padding: 1rem 0 3rem;
     background: #efefef;
 }
 .social-networks i {
@@ -285,7 +285,6 @@
 .social-networks i:hover {
     color: #3a3a3a;
 }
-
 /*--Gallery Page--*/
 #galleria {
     background: linear-gradient(rgba(209, 105, 35, 0.103),#000000),url(../images/background/back2.jpg);
@@ -303,7 +302,6 @@
 #photo > img {
     width: 100%;
 }
-
 /*--Recipe Page--*/
 #mat {
     background: linear-gradient(rgba(87, 43, 30, 0.116),#000000),url(../images/background/back4.jpg);
@@ -313,7 +311,7 @@
 }
 #plate {
     width: 100%;
-    padding: 30px 0 5px;
+    padding: 3rem 0 5px;
     background: #efefef;
 }
 .food-box {
@@ -326,22 +324,22 @@
 .single-food {
     flex-basis: 24%;
     text-align: center;
-    border-radius: 7px;
-    margin-bottom: 20px;
+    border-radius: 0.7rem;
+    margin-bottom: 2rem;
     color: rgb(255, 255, 255);
     position: relative;
 }
 .single-food img {
     width: 100%;
     height: 100%;
-    border-radius: 7px;
+    border-radius: 0.7rem;
 }
 .overlay {
     width: 100%;
     height: 100%;
     position: absolute;
     bottom: 0;
-    border-radius: 7px;
+    border-radius: 0.7rem;
     cursor: pointer;
     background: linear-gradient(rgba(0, 0, 0, 0.781), #d36b0b9d);
     opacity: 0;
@@ -360,7 +358,7 @@
     transition: 1s;
 }
 .food-hold p {
-    font-size: 14px;
+    font-size: 1.4rem;
     font-weight: 700;
     color: #ffffff;
 }
@@ -368,7 +366,7 @@
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 1px; 
-    font-size: 14px;
+    font-size: 1.4rem;
     font-weight: 700;
     color:rgb(0, 0, 0);
 }

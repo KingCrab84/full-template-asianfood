@@ -170,7 +170,7 @@ OBS SKRIV MERA HÄR!!!!!!!
 
 ### Footer
 
-The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to Asian Street Food site. There is also a hover effect over the links, again to improve user experiance.
+The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site. There is also a hover effect over the links, again to improve user experiance.
 
 \
 &nbsp;
@@ -276,7 +276,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 + Then select 'Pages' on the side navigation.
 + Select the 'None' dropdown, and then click 'master'.
 + Click on the 'Save' button.
-+ Now the website is now live on https://kingcrab84.github.io/full-template-asianfood/
++ Now the website is now live on https://sam-timmins.github.io/T4Tri-triathlon-club/
 + If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
 
 \
@@ -287,8 +287,17 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 # Credits
 
-For code inspiration, help and advice,
+For code insperation, help and advice,
 * [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
+* [Mark Caron](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793 "Marc Caron")
+\
+&nbsp;
+
+For content and style insperation,
+* [3D Triathlon Club](https://www.3dtri.ie/ "3D Triathlon Club")
+* [Limerick Triathlon Club](https://limericktriathlon.com/ "Limerick Triathlon Club")
+* [Portmarnock Triathlon Club](https://www.portmarnocktriathlonclub.com/ "Portmarnock Triathlon Club")
+
 
 \
 &nbsp;
