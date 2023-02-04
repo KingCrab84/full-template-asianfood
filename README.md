@@ -134,9 +134,13 @@ OBS SKRIV MERA HÄR!!!!!!!
 
 This page will allow the user to get signed up. The user need to fill in first name, last name and mailadress to be able to recieve weekly/dailly newsletter for recipes/articles.
 
-Additional features could be creating an account along with the Sign Up form. In the Login account there will be rating function for each recipy, access to a library of recipes, saving all the favorites recipes as shortcuts.
+![Responsive Displays](assets/images/readmeimg/signup.jpg)
+![Responsive Displays](assets/images/readmeimg/signup_over.jpg)
+![Responsive Displays](assets/images/readmeimg/signup_over2.jpg)
 
-OBS SKRIV MERA HÄR!!!!!!!
+A highlighting effect will show up when hover over the textbox and the "send" button.
+
+Additional features could be creating an account along with the Sign Up form. In the Login account there will be rating function for each recipy, access to a library of recipes, saving all the favorites recipes as shortcuts.
 
 \
 &nbsp;
@@ -158,10 +162,6 @@ OBS SKRIV MERA HÄR!!!!!!!
 
 This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
 
-Gallery länka till folks inlägg
-Berätta mer vart de köpte den o betyg 
-OBS SKRIV MERA HÄR!!!!!!!
-
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -179,6 +179,14 @@ The footer contains the social media links. These social links all open in a new
 &nbsp;
 
 ## Features to be Implemented
+
+
+
+Gallery länka till folks inlägg
+Berätta mer vart de köpte den o betyg 
+OBS SKRIV MERA HÄR!!!!!!!
+
+
 
 + Contact form to send message to T4Tri instead of leading to a dummy page.
 + Links to club sponsors websites.
