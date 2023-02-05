@@ -167,8 +167,8 @@ Inviting images that when hovering over will animate gradient/transition effect 
 There will also be a go to "Full Recipe" button, redirecting to the full recipe page. 
 
 ![Responsive Displays](assets/images/readmeimg/latest_recipe.jpg)
-![Responsive Displays](assets/images/readmeimg/latest_recipe_over.jpg)
-![Responsive Displays](assets/images/readmeimg/latest_recipe_over2.jpg)
+![Responsive Displays](assets/images/readmeimg/latest1.jpg)
+![Responsive Displays](assets/images/readmeimg/latest2.jpg)
 
 When the screen resizes to max width 768px.
 
