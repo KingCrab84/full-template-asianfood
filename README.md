@@ -266,11 +266,13 @@ I have encountered several issues during testing.
  + Made pictures interactive with animation using hover pseudoclass and changing transition time and opacity.
  + Tried using FontAwesome icons, but CSS link didn't work. Found alternative from W3Schools, but some icons have outdated design. 
  
-    - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
-    - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
-    - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
+    - HTML (index.html) validator [results]!(assets/images/readmeimg/valid_index.jpg) "W3C HTML")
+    - HTML (recipe.html) validator [results](assets/images/readmeimg/valid_recipe.jpg) "W3C HTML")
+    - HTML (gallery.html) validator [results](assets/images/readmeimg/valid_gallery.jpg) "W3C HTML")
     - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
- 
+
+HTML: No errors were returned when passing through the official W3C validator?
+CSS:  No errors werre returned when passing through the oficial (Jigsaw) validator?
 
 \
 &nbsp;
@@ -302,12 +304,3 @@ For code insperation, help and advice,
 
 \
 &nbsp;
-
-
-
-Validator Testing
-HTML: No errors were returned when passing through the official W3C validator?
-CSS:  No errors werre returned when passing through the oficial (Jigsaw) validator?
-
-Future Progress
-Lägga till ingredienser till recept
