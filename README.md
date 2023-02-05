@@ -284,6 +284,7 @@ I have encountered several issues during testing.
  + Wanted 2-column, aligned picture layout for "Latest Recipes" section. Solved it using flex display.
  + Made pictures interactive with animation using hover pseudoclass and changing transition time and opacity.
  + Tried using FontAwesome icons, but CSS link didn't work. Found alternative from W3Schools, but some icons have outdated design. 
+ + Learned during testing the validator, certain rules/guidance applies, such as sections must contain headers among them.
  
     - HTML (index.html) validator [results]!(assets/images/readmeimg/valid_index.jpg) "W3C HTML")
     - HTML (recipe.html) validator [results](assets/images/readmeimg/valid_recipe.jpg) "W3C HTML")
