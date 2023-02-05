@@ -33,7 +33,6 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
         * [Languages](#languages)
         * [Tools and Libraries](#tools-and-libraries)
     * [Testing](#testing)
-        * [Unfixed Bugs](#unfixed-bugs)
     * [Deployment](#deployment)
     * [Credits](#credits)
 # UX
@@ -85,6 +84,8 @@ I will used some icons for my website from the [Font Awesome library](https://fo
 
 ### Colours
 I will be using a light gray-white colour on the background(#efefef) to make the website a little more soft looking, while the images will help making it feel warmer also. The text color used for headers is warm Red(RGB #170, 0, 0) and Black(#000000), while most of the paragraphs is using Black(#000000) and White(#ffffff). 
+
+
 
 \
 &nbsp;
@@ -244,7 +245,8 @@ Link those images to peoples account/social media and read about their experince
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [RawPixel](https://www.rawpixel.com/ "RawPixel")
-* [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
+* [Coolors](https://coolors.co/image-picker/ "Coolors")
+
 
 \
 &nbsp;
