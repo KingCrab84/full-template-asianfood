@@ -132,6 +132,10 @@ A button that would redirect to the whole article will be highlighted with hover
 ![Responsive Displays](assets/images/readmeimg/headline_big.jpg)
 ![Responsive Displays](assets/images/readmeimg/headline_over.jpg)
 
+When the screen resizes to max width 768px.
+
+![Responsive Displays](assets/images/readmeimg/768_headline.jpg)
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -142,9 +146,9 @@ A button that would redirect to the whole article will be highlighted with hover
 
 This page will allow the user to get signed up. The user need to fill in first name, last name and mailadress to be able to recieve weekly/dailly newsletter for recipes/articles.
 
-![Responsive Displays](assets/images/readmeimg/signup.jpg)
-![Responsive Displays](assets/images/readmeimg/signup_over.jpg)
-![Responsive Displays](assets/images/readmeimg/signup_over2.jpg)
+![Responsive Displays](assets/images/readmeimg/signup1.jpg)
+![Responsive Displays](assets/images/readmeimg/signup2.jpg)
+![Responsive Displays](assets/images/readmeimg/signup3.jpg)
 
 A highlighting effect will show up when hover over the textbox and the "send" button.
 
@@ -166,6 +170,10 @@ There will also be a go to "Full Recipe" button, redirecting to the full recipe 
 ![Responsive Displays](assets/images/readmeimg/latest_recipe_over.jpg)
 ![Responsive Displays](assets/images/readmeimg/latest_recipe_over2.jpg)
 
+When the screen resizes to max width 768px.
+
+![Responsive Displays](assets/images/readmeimg/768_latest.jpg)
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -176,7 +184,7 @@ There will also be a go to "Full Recipe" button, redirecting to the full recipe 
 
 The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to Asian street Food's site. There is also a hover effect over the links, again to improve user experiance.
 ![Responsive Displays](assets/images/readmeimg/footer.jpg)
-![Responsive Displays](assets/images/readmeimg/footer_over.jpg)
+![Responsive Displays](assets/images/readmeimg/footer2.jpg)
 
 \
 &nbsp;
@@ -187,11 +195,18 @@ The footer contains the social media links. These social links all open in a new
 ### Recipe Page
 
 When going to the Recipe page the navigation bar will have another background image to make the page interesting. 
+
+![Responsive Displays](assets/images/readmeimg/recipe_back.jpg)
+
 4 columns and numerous row of images will be shown and once its hovered, it will show the same animation/transition as earlier. 
 It contains a headline, text and a link to the full recipe.
 
-![Responsive Displays](assets/images/readmeimg/recipe_back.jpg)
-![Responsive Displays](assets/images/readmeimg/recipe_over.jpg)
+![Responsive Displays](assets/images/readmeimg/recipe1.jpg)
+![Responsive Displays](assets/images/readmeimg/recipe2.jpg)
+
+When the screen resizes to max width 768px.
+
+![Responsive Displays](assets/images/readmeimg/768_recipe.jpg)
 
 \
 &nbsp;
@@ -201,12 +216,16 @@ It contains a headline, text and a link to the full recipe.
 
 ### Gallery Page
 
+When going to the Gallery page the navigation bar will have another background image to make the page interesting. 
+
+![Responsive Displays](assets/images/readmeimg/gallery_back.jpg)
+
 This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
+
+![Responsive Displays](assets/images/readmeimg/gallery.jpg)
 
 Additional features could be showing info about what it is, where its about. 
 Link those images to peoples account/social media and read about their experince and travel all over the world. 
-
-![Responsive Displays](assets/images/readmeimg/gallery.jpg)
 
 \
 &nbsp;
