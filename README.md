@@ -145,12 +145,11 @@ When the screen resizes to max width 768px.
 ### Sign up Section
 
 This page will allow the user to get signed up. The user need to fill in first name, last name and mailadress to be able to recieve weekly/dailly newsletter for recipes/articles.
+A highlighting effect will show up when hover over the textbox and the "send" button.
 
 ![Responsive Displays](assets/images/readmeimg/signup1.jpg)
 ![Responsive Displays](assets/images/readmeimg/signup2.jpg)
 ![Responsive Displays](assets/images/readmeimg/signup3.jpg)
-
-A highlighting effect will show up when hover over the textbox and the "send" button.
 
 Additional features could be creating an account along with the Sign Up form. In the Login account there will be rating function for each recipy, access to a library of recipes, saving all the favorites recipes as shortcuts.
 
@@ -169,10 +168,6 @@ There will also be a go to "Full Recipe" button, redirecting to the full recipe 
 ![Responsive Displays](assets/images/readmeimg/latest_recipe.jpg)
 ![Responsive Displays](assets/images/readmeimg/latest1.jpg)
 ![Responsive Displays](assets/images/readmeimg/latest2.jpg)
-
-When the screen resizes to max width 768px.
-
-![Responsive Displays](assets/images/readmeimg/768_latest.jpg)
 
 \
 &nbsp;
@@ -276,7 +271,6 @@ Link those images to peoples account/social media and read about their experince
 I feel that the site has hit the goals required by all parties. The site responds nicely to different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
 \
 &nbsp;
-
 I have encountered several issues during testing. 
 
  + Initially used px for text, but it didn't follow proportions during screen resizing. I learned to use double reset for responsive text and easier calculation of rem sums.
