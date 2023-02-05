@@ -31,7 +31,7 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
         * [Features to be implemented](#features-to-be-implemented)
     * [Technologies used](#technologies-used)
         * [Languages](#languages)
-        * [Libraries]{libraries}
+        * [Libraries]{#libraries}
         * [Tools](#tools)
     * [Testing](#testing)
     * [Deployment](#deployment)
