@@ -256,25 +256,22 @@ Link those images to peoples account/social media and read about their experince
 
 # Testing
 
-I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
+I feel that the site has hit the goals required by all parties. The site responds nicely to different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
 \
 &nbsp;
 
 I have encountered several issues during testing. 
+
  + Initially used px for text, but it didn't follow proportions during screen resizing. I learned to use double reset for responsive text and easier calculation of rem sums.
  + Had trouble centering navbar with text-align center, so changed div to flex display with justify content set to center. 
  + Wanted 2-column, aligned picture layout for "Latest Recipes" section. Solved it using flex display.
  + Made pictures interactive with animation using hover pseudoclass and changing transition time and opacity.
  + Tried using FontAwesome icons, but CSS link didn't work. Found alternative from W3Schools, but some icons have outdated design. 
  
-
-+ I found that I was repeating alot of code in my style.css file in order to center items. I created a class to do this and then applied it whee needed.
- 
-     - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
+    - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
     - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
     - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
  
-
 
 \
 &nbsp;
@@ -307,30 +304,11 @@ For code insperation, help and advice,
 \
 &nbsp;
 
-..................................................................
-SVENSKA!!!!!!
-Features Left to Implement
 
-Testing
 
 Validator Testing
 HTML: No errors were returned when passing through the official W3C validator?
 CSS:  No errors werre returned when passing through the oficial (Jigsaw) validator?
 
-Deployment 
-
-Credits
-
-Content
-
-Media
-
 Future Progress
 Lägga till ingredienser till recept
-
-
-
-Projektbeskrivning?
-Visa problem o lösningar
-Bilder o Screenshots
-Redovisa felsökning program
