@@ -261,8 +261,12 @@ I feel that the site has hit the goals required by all parties. The site respond
 &nbsp;
 
 I have encountered several issues during testing. 
- + I initially used px for all text but when resizing the screen it just didn't follow the proportions. I've get to learn using double reset to make all the text responsive to the size of the screen and also make it easier to calculate the sum of each rem.
- + 
+ + Initially used px for text, but it didn't follow proportions during screen resizing. I learned to use double reset for responsive text and easier calculation of rem sums.
+ + Had trouble centering navbar with text-align center, so changed div to flex display with justify content set to center. 
+ + Wanted 2-column, aligned picture layout for "Latest Recipes" section. Solved it using flex display.
+ + Made pictures interactive with animation using hover pseudoclass and changing transition time and opacity.
+ + Tried using FontAwesome icons, but CSS link didn't work. Found alternative from W3Schools, but some icons have outdated design. 
+ 
 
 + I found that I was repeating alot of code in my style.css file in order to center items. I created a class to do this and then applied it whee needed.
  
