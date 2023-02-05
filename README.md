@@ -31,7 +31,8 @@ Let the viewers get inspiration to visit Asia, or if not, find recipes to cook a
         * [Features to be implemented](#features-to-be-implemented)
     * [Technologies used](#technologies-used)
         * [Languages](#languages)
-        * [Tools and Libraries](#tools-and-libraries)
+        * [Libraries]{libraries}
+        * [Tools](#tools)
     * [Testing](#testing)
     * [Deployment](#deployment)
     * [Credits](#credits)
@@ -247,7 +248,7 @@ Link those images to peoples account/social media and read about their experince
 * [HTML](https://en.wikipedia.org/wiki/HTML "HTML")
 * [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
 
-## Libraries & Framework
+## Libraries
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 
 ## Tools
