@@ -178,7 +178,7 @@ There will also be a go to "Full Recipe" button, redirecting to the full recipe 
 ### Footer
 
 The footer contains the social media links. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to Asian street Food's site. There is also a hover effect over the links, again to improve user experiance.
-![Responsive Displays](assets/images/readmeimg/footer.jpg)
+![Responsive Displays](assets/images/readmeimg/footer1.jpg)
 ![Responsive Displays](assets/images/readmeimg/footer2.jpg)
 
 \
