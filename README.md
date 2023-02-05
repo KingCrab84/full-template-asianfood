@@ -289,7 +289,7 @@ I have encountered several issues during testing.
     - HTML (index.html) validator [results]!(assets/images/readmeimg/valid_index.jpg) "W3C HTML")
     - HTML (recipe.html) validator [results](assets/images/readmeimg/valid_recipe.jpg) "W3C HTML")
     - HTML (gallery.html) validator [results](assets/images/readmeimg/valid_gallery.jpg) "W3C HTML")
-    - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
+    - CSS validator [results](assets/images/readmeimg/valid_css.jpg) "W3C CSS")
 
 HTML: No errors were returned when passing through the official W3C validator?
 CSS:  No errors werre returned when passing through the oficial (Jigsaw) validator?
