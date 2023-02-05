@@ -218,10 +218,9 @@ Link those images to peoples account/social media and read about their experince
 
 ## Features to be Implemented
 
-+ Contact form to send message to T4Tri instead of leading to a dummy page.
-+ Links to club sponsors websites.
-+ Add a shop for club clothing to be purchased.
-+ Add a library of structured workouts for all activities.
++ Contact form to send message to Admin instead of leading to a dummy page.
++ Recipe pages for all the links from "Full Recipe".
++ Create an Login account to expand the possibilites.
 
 \
 &nbsp;
@@ -260,44 +259,15 @@ I feel that the site has hit the goals required by all parties. The site respond
 &nbsp;
 
 I have encountered several issues during testing. 
- + I initially decided to create the site with a minimum width of 992px as my largest styling, however the site just did not look right so added an x-large screen size.
+ + I initially used px for all text but when resizing the screen it just didn't follow the proportions. I've get to learn using double reset to make all the text responsive to the size of the screen and also make it easier to calculate the sum of each rem.
+ + 
 
- + In my wireframes, I had designed to only have a 'Join Us' button on the larger screen sizes. While I was developing the site, this did not make sence. There was such a long scroll with it being a one-page site, I felt I needed to speed up the movement for someone who was instantly interested so included it on all screen sizes.
-
- + On actual smaller devices, instead of on Chrome Developer, the main navigation menu did not show the 'Contact' link. I simply changed the styling of the links and the changed the ul to flex-start and all is now clearly visable.
-
- + I was having issues with the navigation bar scrolling about 15px when I scrolled down on smaller devices whilst working on Chrome Developer. I lost a lot of time trying to figure out the issue, but when I tried the site on an acual device, the navigation bar stayed fixed as the code dictated. This was a bug in Chrome Developer and not with my site.
-
- + The main navigation on smaller devices was initially set to 90vh, however on testing on a physical device, the user could see the site scrolling at the bottom if they were to slide up or down. This looked very poor and clumsy on the eye, so I adjusted it to 100vh to cover it up.
-
- + I found that I was repeating alot of code in my style.css file in order to center items. I created a class to do this and then applied it whee needed.
-
- + All my buttons were styled completly differently. I added an animation to all buttons so there is a continuity between them all.
-
- + When I was validating HTML code, I had one error showing. This was in the contact form where I had a method of '#'. I was under the understanding that POST method should have been used, but when I did, it caused an error instead of going to my contact.html page. After a while I tried using GET and it worked solving my validation problem. The results of my validation for HTML and CSS are below.
-
-    - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
++ I found that I was repeating alot of code in my style.css file in order to center items. I created a class to do this and then applied it whee needed.
+ 
+     - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
     - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
     - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
-\
-&nbsp;
-
- + On testing on a physical mobile device, I thought that the google search bar looked odd, being white and my header a dark colour. For user experiance and to make it look cleaner and more fluid, I changed the colour to match using the following code.
-
- ```
-
- <meta name="theme-color" content="#121A18">
-
-
- ```
-
- + When going through my UX section, to ensure that all my goals were met for the project, I noticed that I had missed one, 'As a user, I want to know that the club is well established'. I adjusted the text in the welcome section to suit.
-\
-&nbsp;
-
-## Unfixed Bugs
-
-My learning has limited my use of the hamburger for smaller devices. It works nicely to open the menu up, but a tap of the hamburger again should close the menu down again. It does not do this, and the link has to be selected to enable the user to exit out of it. From my research it seems that all the streamline methods are using JavaScript and I am yet to learn this.
+ 
 
 
 \
