@@ -85,8 +85,6 @@ I will used some icons for my website from the [Font Awesome library](https://fo
 ### Colours
 I will be using a light gray-white colour on the background(#efefef) to make the website a little more soft looking, while the images will help making it feel warmer also. The text color used for headers is warm Red(RGB #170, 0, 0) and Black(#000000), while most of the paragraphs is using Black(#000000) and White(#ffffff). 
 
-
-
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -269,6 +267,7 @@ I have encountered several issues during testing.
  + Tried using FontAwesome icons, but CSS link didn't work. Found alternative from W3Schools, but some icons have outdated design. 
  
     - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
+    - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
     - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
     - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
  
