@@ -286,7 +286,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 + Then select 'Pages' on the side navigation.
 + Select the 'None' dropdown, and then click 'master'.
 + Click on the 'Save' button.
-+ Now the website is now live on https://sam-timmins.github.io/T4Tri-triathlon-club/
++ Now the website is now live on https://kingcrab84.github.io/full-template-asianfood/
 + If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
 
 \
