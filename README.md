@@ -257,8 +257,9 @@ Link those images to peoples account/social media and read about their experince
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [RawPixel](https://www.rawpixel.com/ "RawPixel")
-* [Coolors](https://coolors.co/image-picker/ "Coolors")
-
+* [Coolors](https://www.coolors.co/image-picker/ "Coolors")
+* [W3Schools](https://www.w3schools.com/ "W3Schools")
+* [Google](https://www.google.com/ "Google")
 
 \
 &nbsp;
