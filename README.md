@@ -187,10 +187,12 @@ The footer contains the social media links. These social links all open in a new
 
 ### Recipe Page
 
+When going to the Recipe page the navigation bar will have another background image to make the page interesting. 
+4 columns and numerous row of images will be shown and once its hovered, it will show the same animation/transition as earlier. 
+It contains a headline, text and a link to the full recipe.
+
 ![Responsive Displays](assets/images/readmeimg/recipe_back.jpg)
 ![Responsive Displays](assets/images/readmeimg/recipe_over.jpg)
-
-OBS SKRIV MERA HÄR!!!!!!!
 
 \
 &nbsp;
@@ -201,6 +203,10 @@ OBS SKRIV MERA HÄR!!!!!!!
 ### Gallery Page
 
 This Gallery will provide the user with supporting images to see how the atmosphere on asian street market and street food looks like.
+
+Additional features could be showing info about what it is, where its about. 
+Link those images to peoples account/social media and read about their experince and travel all over the world. 
+
 ![Responsive Displays](assets/images/readmeimg/gallery.jpg)
 
 \
@@ -211,14 +217,6 @@ This Gallery will provide the user with supporting images to see how the atmosph
 
 
 ## Features to be Implemented
-
-
-
-Gallery länka till folks inlägg
-Berätta mer vart de köpte den o betyg 
-OBS SKRIV MERA HÄR!!!!!!!
-
-
 
 + Contact form to send message to T4Tri instead of leading to a dummy page.
 + Links to club sponsors websites.
