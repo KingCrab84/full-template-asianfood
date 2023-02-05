@@ -300,7 +300,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 + Navigate to the repository on github and click 'Settings'.
 + Then select 'Pages' on the side navigation.
-+ Select the 'None' dropdown, and then click 'master'.
++ Select the 'None' dropdown, and then click 'main'.
 + Click on the 'Save' button.
 + Now the website is now live on https://kingcrab84.github.io/full-template-asianfood/
 + If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
