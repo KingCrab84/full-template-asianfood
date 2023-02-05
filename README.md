@@ -273,6 +273,7 @@ Link those images to peoples account/social media and read about their experince
 I feel that the site has hit the goals required by all parties. The site responds nicely to different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
 \
 &nbsp;
+
 I have encountered several issues during testing. 
 
  + Initially used px for text, but it didn't follow proportions during screen resizing. I learned to use double reset for responsive text and easier calculation of rem sums.
